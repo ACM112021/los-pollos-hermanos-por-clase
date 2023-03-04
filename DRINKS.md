@@ -3,7 +3,7 @@
 | Drink | Description | Price |
 | --- | --- | --- |
 | Horchata | Sweet rice milk with cinnamon, vanilla, and sugar. | $3.99 |
-| Jamaica | Hibiscus tea sweetened with sugar and served over ice. | $3.99 |
+| Jamaica | Hibiscus tea sweetened with sugar and served over ice. | $4.99 |
 | Margarita | Tequila, lime juice, and triple sec, served on the rocks with salt on the rim. | $7.99 |
 | Michelada | Mexican beer mixed with lime juice, hot sauce, and spices, served over ice with a salt rim. | $5.99 |
 | Paloma | Tequila, grapefruit soda, and lime juice, served on the rocks with salt on the rim. | $7.99 |
