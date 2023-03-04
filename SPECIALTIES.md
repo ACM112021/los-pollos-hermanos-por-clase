@@ -9,6 +9,6 @@
 | Fajitas | Sizzling skillet of grilled chicken or steak, bell peppers, onions, and spices. Served with guacamole, sour cream, pico de gallo, rice, and beans. | $15.99 (chicken) or $17.99 (steak) |
 | Camarones al Mojo de Ajo | Succulent shrimp sautéed in garlic butter, lime juice, and white wine. Served with rice and beans. | $18.99 |
 | Birria | Tender, slow-cooked beef stew made with a blend of chiles and spices. Served with tortillas, cilantro, onions, and a side of consomé. | $14.99 |
-| Pozole | Hearty pork and hominy stew, simmered with chiles and topped with shredded cabbage, radish, cilantro, and lime. Served with tortillas. | $11.99 |
+| Pozole | Hearty pork and hominy stew, simmered with chiles and topped with shredded cabbage, radish, cilantro, and lime. Served with tortillas. | $12.99 |
 | Tacos al Pastor | Marinated pork, cooked on a spit and shaved off into warm tortillas. Served with pineapple, cilantro, onions, and a side of salsa. | $13.99 |
 | Cochinita Pibil | Slow-roasted pork marinated in achiote paste, orange juice, and spices. Served with pickled onions and warm tortillas. | $14.99 |
