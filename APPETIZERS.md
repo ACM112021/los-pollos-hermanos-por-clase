@@ -1,6 +1,6 @@
 # Appetizers
 
-| Appetizer | Description | Price |
+| Appetizerz | Description | Price |
 | --- | --- | --- |
 | Guacamole | Freshly made avocado dip served with crispy tortilla chips. | $4.99 |
 | Queso Fundido | Melted cheese dip with chorizo sausage, served with warm tortillas. | $6.99 |
